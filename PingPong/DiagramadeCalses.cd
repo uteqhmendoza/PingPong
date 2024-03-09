@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PingPong.Consola.Command" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Consola\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Consola.ConsolaGameAdapter" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Consola\ConsolaGameAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Consola.GameAdapter">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAQAADCAAAAAAAAEAAABAAAAA=</HashCode>
+      <FileName>Consola\GameAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Core.FactoryTablero" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FactoryTablero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Core.Tablero" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Tablero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Core.TableroBase" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgAEAAAAAAAAAAABAAEAAAAAAIQAAAAAAAAEAAAA=</HashCode>
+      <FileName>Core\TableroBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PingPong.Core.TableroBuilder" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAIAAIAAAAAAAAAAAAAAAgwAAAAAAAAQAAAA=</HashCode>
+      <FileName>Core\TableroBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Core.TableroSolo">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\TableroSolo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Juego" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAgAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Juego.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Jugador" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAgAAAAgAAAAAAAAAAAAAAAAAQAQAAAAAABA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PingPong.Pelota" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAARgAAAAAAA=</HashCode>
+      <FileName>Pelota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingPong.Posicion" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Posicion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PingPong.Core.ITablero" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAEAAAA=</HashCode>
+      <FileName>Core\ITablero.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
